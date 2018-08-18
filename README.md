@@ -28,4 +28,8 @@ Step 3: Application uses following external jars from lib folder
    
 Step 4: Run JUnit file : TestNotificationTestCase.java
 
-Step 5: Console output is uploaded in outputg/output.log file. 
+Step 5: Console output is uploaded in outputg/output.log file.
+       Sample output logs.
+
+![alt text](https://github.com/ajaysh/sales-notification-app/blob/master/image.PNG)
+

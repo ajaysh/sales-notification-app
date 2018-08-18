@@ -1,0 +1,187 @@
+START of Notification Message Listener.
+Warning:No product sold for given adjustment for product: dragon fruit
+Sales number for each product type after 10 notifications
+================================
+             PRODUCT         TOTAL_SALES
+================================
+              banana           90.000000
+              orange           28.000000
+               apple            8.000000
+              cherry           36.000000
+        dragon fruit            0.000000
+              Litchi           10.000000
+           pineapple           10.000000
+           blueberry          500.000000
+          strawberry            7.000000
+=======================================
+Warning:No product sold for given adjustment for product: raspberry
+Sales number for each product type after 20 notifications
+================================
+             PRODUCT         TOTAL_SALES
+================================
+              banana           90.000000
+              cherry          472.000000
+           raspberry          120.000000
+          raspberrgy         1000.000000
+              Litchi           10.000000
+           blueberry          500.000000
+              litchi           20.000000
+                corn          125.000000
+          jack fruit          600.000000
+          strawberry            7.000000
+              orange           28.000000
+               apple            8.000000
+        dragon fruit            0.000000
+           pineapple           10.000000
+=======================================
+Sales number for each product type after 23 notifications
+================================
+             PRODUCT         TOTAL_SALES
+================================
+              banana           90.000000
+              cherry          472.000000
+           raspberry          120.000000
+          raspberrgy         1000.000000
+              Litchi           10.000000
+           blueberry          500.000000
+              litchi           20.000000
+                corn          150.000000
+          jack fruit          600.000000
+          strawberry            7.000000
+           jackfruit           40.000000
+              orange           28.000000
+               apple            8.000000
+        dragon fruit            0.000000
+           pineapple           50.000000
+=======================================
+
+
+Adjustment LOGS after processing all 23 notifications
+=======================================
+Adjusted product:apple with operation:SUBTRACT by value:2.0
+Adjusted product:dragon fruit with operation:SUBTRACT by value:2.0
+Adjusted product:cherry with operation:MULTIPLY by value:2.0
+Adjusted product:raspberry with operation:SUBTRACT by value:2.0
+Adjusted product:litchi with operation:ADD by value:2.0
+=======================================
+END of Notification Message Listener.
+
+START of Notification Message Listener.
+Sales number for each product type after 10 notifications
+================================
+             PRODUCT         TOTAL_SALES
+================================
+              banana           37.000000
+              orange           42.000000
+               apple           36.000000
+               mango          110.000000
+=======================================
+Sales number for each product type after 20 notifications
+================================
+             PRODUCT         TOTAL_SALES
+================================
+              banana           37.000000
+              orange           42.000000
+               apple           61.000000
+              cherry          180.000000
+        dragon fruit           90.000000
+              litchi          200.000000
+                corn           30.000000
+            pinapple           40.000000
+          jack fruit           45.000000
+          strawberry          350.000000
+               mango          110.000000
+=======================================
+Sales number for each product type after 30 notifications
+================================
+             PRODUCT         TOTAL_SALES
+================================
+              banana           37.000000
+              cherry          360.000000
+           raspberry          100.000000
+              litchi          400.000000
+           blueberry          320.000000
+                corn           60.000000
+          jack fruit           90.000000
+          strawberry          350.000000
+               mango          110.000000
+              orange          162.000000
+               apple           61.000000
+        dragon fruit          180.000000
+            pinapple           40.000000
+=======================================
+Sales number for each product type after 40 notifications
+================================
+             PRODUCT         TOTAL_SALES
+================================
+              banana           74.000000
+              cherry          360.000000
+           raspberry          200.000000
+              litchi          400.000000
+           blueberry          320.000000
+                corn           60.000000
+          jack fruit           90.000000
+          strawberry          350.000000
+               mango          220.000000
+              orange          204.000000
+               apple           87.000000
+        dragon fruit          180.000000
+            pinapple           40.000000
+=======================================
+Sales number for each product type after 50 notifications
+================================
+             PRODUCT         TOTAL_SALES
+================================
+              banana           74.000000
+              papaya           85.000000
+              cherry          360.000000
+           raspberry          200.000000
+              litchi          400.000000
+           blueberry          320.000000
+                corn           60.000000
+          jack fruit           90.000000
+          strawberry          350.000000
+                peru           80.000000
+               jamun           50.000000
+               mango          220.000000
+              orange          204.000000
+               apple           87.000000
+        dragon fruit          180.000000
+            pinapple           40.000000
+          watermelon           40.000000
+               guava           80.000000
+              grapes          120.000000
+=======================================
+Processed 50 messages, ignoring remaing 1 messages.
+Sales number for each product type after 50 notifications
+================================
+             PRODUCT         TOTAL_SALES
+================================
+              banana           74.000000
+              papaya           85.000000
+              cherry          360.000000
+           raspberry          200.000000
+              litchi          400.000000
+           blueberry          320.000000
+                corn           60.000000
+          jack fruit           90.000000
+          strawberry          350.000000
+                peru           80.000000
+               jamun           50.000000
+               mango          220.000000
+              orange          204.000000
+               apple           87.000000
+        dragon fruit          180.000000
+            pinapple           40.000000
+          watermelon           40.000000
+               guava           80.000000
+              grapes          120.000000
+=======================================
+
+
+Adjustment LOGS after processing all 50 notifications
+=======================================
+No Adjustment records present.
+=======================================
+END of Notification Message Listener.
+
